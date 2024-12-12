@@ -73,11 +73,11 @@ class Watchtower:
 
     def evaluate_move(self, x, y, agent, game):
         """
-        Przykładowa funkcja oceny ruchu dla wieży. 
+        Function to evaluate move
         """
         score = 0
         
-        # Więcej punktów za wolne miejsca wokół
+        # More points for empty fields around
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
         for dx, dy in directions:
             nx, ny = x + dx, y + dy
@@ -85,15 +85,15 @@ class Watchtower:
                 if game.board[ny][nx] == '..':
                     score += 1  # Wolne pole to +1 punkt
 
-        # Kary za bliskość innych agentów
+        # Penalty for other agents being near
         for other_agent in game.players:
             if other_agent.id != agent.id and not other_agent.crashed:
                 ox, oy = other_agent.position
                 distance = abs(ox - x) + abs(oy - y)
                 if distance == 1:
-                    score -= 10  # Bardzo blisko – duża kara
+                    score -= 10  # Very close - big penalty
                 elif distance == 2:
-                    score -= 3   # Blisko – mniejsza kara
+                    score -= 3   # Close - moderate penalty
 
         return score
 
@@ -112,40 +112,40 @@ class Watchtower:
         for direction, (dx, dy) in directions.items():
             new_x, new_y = x + dx, y + dy
             
-            # Sprawdzenie czy nowa pozycja jest w obrębie planszy
+            # Check of new position is in the board
             if 0 <= new_x < game.width and 0 <= new_y < game.height:
-                # Sprawdzenie, czy nowa pozycja jest pusta
+                # Check if new position is empty
                 if game.board[new_y][new_x] == '..':
-                    # Ocena ruchu na podstawie agresywnej strategii
+                    # Evaluate move based on aggressive strategy
                     score = self.evaluate_aggressive_move(new_x, new_y, agent)
                     
                     if score > best_score:
                         best_score = score
                         best_direction = direction
         
-        return best_direction if best_direction else random.choice(list(directions.keys()))  # Losowy ruch w braku lepszych opcji
+        return best_direction if best_direction else random.choice(list(directions.keys()))  # Random move if no better options
 
     def evaluate_aggressive_move(self, x, y, agent, game):
         """
-        Ocena ruchu dla agresywnego agenta.
+        Evaluate move for aggressive agent 
         """
         score = 0
         
-        # Punkty za bliskość innych graczy (im bliżej, tym lepiej)
+        # Points for other agents being near (the closer, the better)
         for other_agent in game.players:
             if other_agent.id != agent.id and not other_agent.crashed:
                 ox, oy = other_agent.position
                 distance = abs(ox - x) + abs(oy - y)
                 if distance == 1:
-                    score += 20  # Bardzo blisko – wysoka premia
+                    score += 20  # Very close - big bonus
                 elif distance == 2:
-                    score += 5   # Blisko – umiarkowana premia
+                    score += 5   # Close - moderate bonus
         
-        # Kara za kolizję lub wyjście poza planszę
+        # Penalty for collision or going out of bounds
         if game.board[y][x] != '..':
-            score -= 50  # Ryzyko kolizji
+            score -= 50  # Risk of collision 
         elif not (0 <= x < game.width and 0 <= y < game.height):
-            score -= 100  # Wyjście poza planszę
+            score -= 100  # Out of bounds
         elif distance > 3:
             score -=1
         
