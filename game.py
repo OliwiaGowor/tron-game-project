@@ -1,13 +1,12 @@
 import random
 
-# Definicja klasy Game
 class Game:
     def __init__(self, width, height, players):
         self.width = width
         self.height = height
         self.players = players
         self.board = [['..' for _ in range(width)] for _ in range(height)]
-        self.occupied_positions = set()  # Zbiór zajętych pozycji
+        self.occupied_positions = set() 
         
         for player in self.players:
             player.position = self.random_empty_position()
@@ -15,7 +14,7 @@ class Game:
             self.board[y][x] = player.symbol
             
     def random_empty_position(self):
-        """Zwraca losową, wolną pozycję na planszy."""
+        """Returns random, empty positon on the board."""
         while True:
             x = random.randint(2, self.width - 3)
             y = random.randint(2, self.height - 3)
