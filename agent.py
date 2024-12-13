@@ -59,7 +59,7 @@ class AggressiveAgent(Agent):
         """
         Similar to the base Agent, but uses aggressive suggestions.
         """
-        suggestion = watchtower.get_suggestion(self, game)
+        suggestion = watchtower.get_aggressive_suggestion(self, game)
         # Aggressive agents are less likely to override suggestions
         if random.random() < 0.7:  # 70% chance to follow suggestion
             self.direction = suggestion

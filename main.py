@@ -104,7 +104,7 @@ def create_game(mode):
     if mode == "user_vs_agents":
         player1 = Player(1, game.random_empty_position(), 'P1')
         agent1 = AggressiveAgent(2, game.random_empty_position(), 'A1')
-        agent2 = Agent(3, game.random_empty_position(), 'A2')
+        agent2 = AggressiveAgent(3, game.random_empty_position(), 'A2')
         game.players = [player1, agent1, agent2]
     
     elif mode == "agents_only":
