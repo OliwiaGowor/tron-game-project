@@ -1,0 +1,25 @@
+[Main] Game started.
+[Agent] Agent A1 suggested 'LEFT', decided on 'LEFT'.
+[Agent] Agent A2 suggested 'RIGHT', decided on 'UP'.
+[Agent] Agent A1 suggested 'UP', decided on 'UP'.
+[Agent] Agent A2 suggested 'RIGHT', decided on 'RIGHT'.
+[Agent] Agent A1 suggested 'LEFT', decided on 'UP'.
+[Agent] Agent A2 suggested 'RIGHT', decided on 'RIGHT'.
+[Agent] Agent A1 suggested 'LEFT', decided on 'UP'.
+[Agent] Agent A2 suggested 'UP', decided on 'UP'.
+[Agent] Agent A1 suggested 'LEFT', decided on 'LEFT'.
+[Agent] Agent A2 suggested 'UP', decided on 'UP'.
+[Agent] Agent A1 suggested 'UP', decided on 'UP'.
+[Agent] Agent A2 suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.

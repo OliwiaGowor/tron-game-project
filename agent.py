@@ -1,13 +1,13 @@
 import random
 
 class Player:
-    def __init__(self, player_id, start_pos, symbol, direction="UP"):
+    def __init__(self, player_id, start_pos=None, symbol='P1', direction="UP"):
         self.id = player_id
         self.symbol = symbol
         self.position = start_pos
         self.direction = direction
         self.crashed = False
-    
+
     def move(self):
         x, y = self.position
         if self.direction == "UP":
@@ -23,13 +23,9 @@ class Player:
 class Agent(Player):
     def __init__(self, player_id, start_pos, symbol):
         super().__init__(player_id, start_pos, symbol)
-    
+
     def decide_move(self, game, watchtower):
-        """
-        The agent receives a suggestion but makes the final decision.
-        """
         suggestion = watchtower.get_suggestion(self, game)
-        # Agent logic to potentially override the suggestion
         if random.random() < 0.9:  # 90% chance to follow suggestion
             self.direction = suggestion
         else:
@@ -48,23 +44,24 @@ class Agent(Player):
             if valid_directions:
                 self.direction = random.choice(valid_directions)
             else:
-                self.direction = suggestion  # Default to suggestion if no valid alternative
+                self.direction = suggestion
 
+        self.log_decision(self.symbol, suggestion, self.direction)
+
+    def log_decision(self, agent_symbol, suggestion, decision):
+        """Loguje decyzję agenta."""
+        with open("game_logs.txt", "a") as log_file:
+            log_file.write(f"[Agent] Agent {agent_symbol} suggested '{suggestion}', decided on '{decision}'.\n")
 
 class AggressiveAgent(Agent):
     def __init__(self, player_id, start_pos, symbol):
         super().__init__(player_id, start_pos, symbol)
 
     def decide_move(self, game, watchtower):
-        """
-        Similar to the base Agent, but uses aggressive suggestions.
-        """
         suggestion = watchtower.get_aggressive_suggestion(self, game)
-        # Aggressive agents are less likely to override suggestions
         if random.random() < 0.7:  # 70% chance to follow suggestion
             self.direction = suggestion
         else:
-            # Randomly choose a valid alternative direction
             x, y = self.position
             directions = {
                 "UP": (0, -1),
@@ -79,6 +76,6 @@ class AggressiveAgent(Agent):
             if valid_directions:
                 self.direction = random.choice(valid_directions)
             else:
-                self.direction = suggestion  # Default to suggestion if no valid alternative
+                self.direction = suggestion
 
- 
+        self.log_decision(self.symbol, suggestion, self.direction)

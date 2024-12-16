@@ -5,6 +5,10 @@ from watchtower import Watchtower
 from agent import Agent, AggressiveAgent, Player
 
 def main_menu(stdscr):
+
+    with open("game_logs.txt", "w") as log_file:  # Reset log file
+        log_file.write("[Main] Game started.\n")
+
     while True:
         stdscr.clear()
         stdscr.addstr(0, 0, "Wybierz tryb gry:")
@@ -96,9 +100,11 @@ def game_loop(stdscr, game, watchtower, mode):
 
 # Inicjalizacja graczy i agentów
 def create_game(mode):
+
     # Tworzymy grę i wieżę
     board_size = 20
     game = Game(board_size, board_size, [])
+
     watchtower = Watchtower()
     
     if mode == "user_vs_agents":
@@ -119,3 +125,4 @@ def create_game(mode):
 
 # Uruchomienie menu w curses.wrapper
 curses.wrapper(main_menu)
+
