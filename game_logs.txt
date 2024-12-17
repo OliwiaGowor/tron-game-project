@@ -1,1 +1,1325 @@
 [Game] Test logging event
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'RIGHT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'RIGHT'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'LEFT'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'LEFT'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'DOWN'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'UP', decided on 'UP'.
+[Agent] Agent A suggested 'DOWN', decided on 'DOWN'.
+[Game] All players have crashed.
