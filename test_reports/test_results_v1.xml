@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="TestAgent-20241217174946" tests="2" file=".py" time="0.008" timestamp="2024-12-17T17:49:46" failures="1" errors="0" skipped="0">
+		<testcase classname="TestAgent" name="test_decide_move_random_choice" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="54"/>
+		<testcase classname="TestAgent" name="test_decide_move_follow_suggestion" time="0.007" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="49">
+			<failure type="AssertionError" message="'LEFT' != 'UP'
+- LEFT
++ UP
+"><![CDATA[Traceback (most recent call last):
+  File "c:\Users\milek\OneDrive\Pulpit\milosz\studia\polsl\sem2\modelowanie i analiza\tron-game-project\tron-game-project\test_tron_game.py", line 52, in test_decide_move_follow_suggestion
+    self.assertEqual(self.agent.direction, "UP")
+AssertionError: 'LEFT' != 'UP'
+- LEFT
++ UP
+
+]]></failure>
+		</testcase>
+	</testsuite>
+	<testsuite name="TestAggressiveAgent-20241217174946" tests="1" file=".py" time="0.002" timestamp="2024-12-17T17:49:46" failures="0" errors="0" skipped="0">
+		<testcase classname="TestAggressiveAgent" name="test_decide_move_aggressive_suggestion" time="0.002" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="66"/>
+	</testsuite>
+	<testsuite name="TestGame-20241217174946" tests="4" file=".py" time="0.005" timestamp="2024-12-17T17:49:46" failures="0" errors="0" skipped="0">
+		<testcase classname="TestGame" name="test_all_players_crashed" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="109"/>
+		<testcase classname="TestGame" name="test_board_initialization" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="92"/>
+		<testcase classname="TestGame" name="test_random_empty_position" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="96"/>
+		<testcase classname="TestGame" name="test_update_player_move" time="0.002" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="101">
+			<system-out><![CDATA[[Game] Player P1 crashed at (0, -1).
+[Game] Player P1 moved from (0, 0) to (1, 0).
+]]></system-out>
+		</testcase>
+	</testsuite>
+	<testsuite name="TestPlayer-20241217174946" tests="5" file=".py" time="0.004" timestamp="2024-12-17T17:49:46" failures="0" errors="0" skipped="0">
+		<testcase classname="TestPlayer" name="test_initialization" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="16"/>
+		<testcase classname="TestPlayer" name="test_move_down" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="27"/>
+		<testcase classname="TestPlayer" name="test_move_left" time="0.000" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="32"/>
+		<testcase classname="TestPlayer" name="test_move_right" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="37"/>
+		<testcase classname="TestPlayer" name="test_move_up" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="22"/>
+	</testsuite>
+	<testsuite name="TestWatchtower-20241217174946" tests="2" file=".py" time="0.002" timestamp="2024-12-17T17:49:46" failures="0" errors="0" skipped="0">
+		<testcase classname="TestWatchtower" name="test_evaluate_move" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="82"/>
+		<testcase classname="TestWatchtower" name="test_get_safe_direction" time="0.001" timestamp="2024-12-17T17:49:46" file="test_tron_game.py" line="78"/>
+	</testsuite>
+</testsuites>

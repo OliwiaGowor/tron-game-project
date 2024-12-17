@@ -20,11 +20,11 @@ class Game:
     def random_empty_position(self):
         """Zwraca losową, wolną pozycję na planszy."""
         while True:
-            x = random.randint(1, self.width - 1)
-            y = random.randint(1, self.height - 1)
+            x = random.randint(0, self.width - 1)
+            y = random.randint(0, self.height - 1)
             if self.board[y][x] == '..':
                 self.occupied_positions.add((x, y))
-                print(f"[Game] Assigning position ({x}, {y}) to a player.")  # Debug
+                # print(f"[Game] Assigning position ({x}, {y}) to a player.")  # Debug
                 return (x, y)
 
 

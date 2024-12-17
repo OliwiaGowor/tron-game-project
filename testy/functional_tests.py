@@ -159,13 +159,66 @@ class TestGridGame(unittest.TestCase):
         self.assertIn(suggestion, valid_directions)
 
 def run_tests():
-    """Run all tests and print results."""
+    """Run all tests and return results as a dictionary."""
     suite = unittest.TestLoader().loadTestsFromTestCase(TestGridGame)
-    runner = unittest.TextTestRunner(verbosity=2)
-    result = runner.run(suite)
+    result = unittest.TestResult()
+    suite.run(result)
+
+    passed = result.testsRun - len(result.failures) - len(result.errors) - len(result.skipped)
     
-    # Exit with non-zero code if tests fail
-    sys.exit(not result.wasSuccessful())
+    results = {
+        'passed': passed,
+        'failed': len(result.failures),
+        'errors': len(result.errors),
+        'skipped': len(result.skipped)
+    }
+    return results
+
+
+import matplotlib.pyplot as plt
+
+def plot_functional_test_results(results):
+    """Visualize the results of functional tests."""
+    labels = list(results.keys())
+    sizes = list(results.values())
+    colors = ['#4CAF50', '#FF5252', '#FFC107', '#2196F3']
+    
+    # Filtruj dane, aby uwzględniać tylko wartości większe niż 0
+    filtered_labels = [label for label, size in zip(labels, sizes) if size > 0]
+    filtered_sizes = [size for size in sizes if size > 0]
+    filtered_colors = colors[:len(filtered_sizes)]
+
+    # Ukrywanie procentów dla kategorii z wartością 0
+    def autopct_format(pct, all_sizes):
+        total = sum(all_sizes)
+        value = int(round(pct * total / 100.0))
+        return f'{pct:.1f}%' if value > 0 else ''
+
+    plt.figure(figsize=(8, 6))
+    if filtered_sizes:
+        plt.pie(
+            filtered_sizes,
+            labels=[f"{label} ({size})" for label, size in zip(filtered_labels, filtered_sizes)],
+            autopct=lambda p: autopct_format(p, filtered_sizes),
+            colors=filtered_colors,
+            startangle=140
+        )
+        plt.title("Functional Test Results")
+        plt.axis('equal')  # Ensure the pie is drawn as a circle
+        plt.show()
+    else:
+        print("No data to display in the pie chart.")
+
+    # Wykres słupkowy
+    plt.figure(figsize=(8, 6))
+    plt.bar(labels, sizes, color=colors)
+    plt.xlabel("Categories")
+    plt.ylabel("Number of Tests")
+    plt.title("Functional Test Results - Bar Chart")
+    plt.show()
+
+
 
 if __name__ == '__main__':
-    run_tests()
+    results = run_tests()  # Zwraca słownik z wynikami testów
+    plot_functional_test_results(results)

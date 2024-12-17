@@ -2,12 +2,7 @@ import unittest
 from game import Game
 from agent import Player, Agent, AggressiveAgent
 from watchtower import Watchtower
-import xmlrunner
-import io
-import os
 
-# Ścieżka do zapisu raportów
-output_dir = "test_reports"
 
 class TestPlayer(unittest.TestCase):
     def setUp(self):
@@ -112,13 +107,4 @@ class TestGame(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    # Utwórz folder dla raportów
-    os.makedirs(output_dir, exist_ok=True)
-
-    # Uruchom testy i zapisz wyniki w plikach XML
-    with open(os.path.join(output_dir, "test_results.xml"), "wb") as output:
-        unittest.main(
-            testRunner=xmlrunner.XMLTestRunner(output=output),
-            failfast=False, buffer=False, catchbreak=False, exit=False
-        )
-    
+    unittest.main()
