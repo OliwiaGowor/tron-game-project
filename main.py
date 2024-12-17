@@ -5,6 +5,10 @@ from watchtower import Watchtower
 from agent import Agent, AggressiveAgent, Player
 
 def main_menu(stdscr):
+
+    with open("game_logs.txt", "w") as log_file:  # Reset log file
+        log_file.write("[Main] Game started.\n")
+
     while True:
         stdscr.clear()
         stdscr.addstr(0, 0, "Choose game mode:")
@@ -99,6 +103,7 @@ def create_game(mode):
     # Create game and watchtower
     board_size = 20
     game = Game(board_size, board_size, [])
+
     watchtower = Watchtower()
     
     if mode == "user_vs_agents":
@@ -119,3 +124,4 @@ def create_game(mode):
 
 # Run menu in curses.wrapper
 curses.wrapper(main_menu)
+
